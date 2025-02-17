@@ -9,8 +9,9 @@
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "/coffee.html"
+        "dest": "/index.html"
       }
     ]
   }
+  
   
